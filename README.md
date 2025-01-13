@@ -10,4 +10,6 @@
 ![Recoil](https://img.shields.io/badge/Recoil-3578e5.svg?&style=for-the-badge&logo=Recoil&logoColor=ffffff)
 ![Scratch](https://img.shields.io/badge/Scratch-4d97ff.svg?&style=for-the-badge&logo=Scratch&logoColor=ffffff)
 ![npm](https://img.shields.io/badge/npm-CB3837.svg?&style=for-the-badge&logo=npm&logoColor=ffffff)
+![Android](https://img.shields.io/badge/Android-34a853.svg?&style=for-the-badge&logo=Android&logoColor=ffffff)
+![AndroidStudio](https://img.shields.io/badge/AndroidStudio-3ddc84.svg?&style=for-the-badge&logo=AndroidStudio&logoColor=ffffff)
 
