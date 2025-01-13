@@ -28,6 +28,7 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-7f52ff.svg?&style=for-the-badge&logo=Kotlin&logoColor=ffffff)
 ![R](https://img.shields.io/badge/R-276dc3.svg?&style=for-the-badge&logo=R&logoColor=ffffff)
 ![MySQL](https://img.shields.io/badge/MySQL-4479a1.svg?&style=for-the-badge&logo=MySQL&logoColor=ffffff)
+![XML](https://img.shields.io/badge/XML-005fad.svg?&style=for-the-badge&logo=XML&logoColor=ffffff)
 
 
 
