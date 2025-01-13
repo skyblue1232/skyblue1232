@@ -3,7 +3,7 @@
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skyblue1232&show_icons=true&theme=tokyonight) <br />
 ---
-### Skills
+### Skills📜
 
 ![React](https://img.shields.io/badge/React-61dafb.svg?&style=for-the-badge&logo=React&logoColor=ffffff)
 ![ReactQuery](https://img.shields.io/badge/ReactQuery-ff4154.svg?&style=for-the-badge&logo=ReactQuery&logoColor=ffffff)
@@ -20,4 +20,10 @@
 ![HTML5](https://img.shields.io/badge/HTML5-e34f26.svg?&style=for-the-badge&logo=HTML5&logoColor=ffffff)
 ![CSS](https://img.shields.io/badge/CSS-663399.svg?&style=for-the-badge&logo=CSS&logoColor=ffffff)
 ![styledcomponents](https://img.shields.io/badge/styledcomponents-db7093.svg?&style=for-the-badge&logo=styledcomponents&logoColor=ffffff)
+
+### Language✏️
+![C](https://img.shields.io/badge/C-a8b9cc.svg?&style=for-the-badge&logo=C&logoColor=ffffff)
+![C++](https://img.shields.io/badge/C++-00599c.svg?&style=for-the-badge&logo=C++&logoColor=ffffff)
+
+
 
