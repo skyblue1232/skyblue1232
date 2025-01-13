@@ -13,6 +13,6 @@
 ![Android](https://img.shields.io/badge/Android-34a853.svg?&style=for-the-badge&logo=Android&logoColor=ffffff)
 ![AndroidStudio](https://img.shields.io/badge/AndroidStudio-3ddc84.svg?&style=for-the-badge&logo=AndroidStudio&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e.svg?&style=for-the-badge&logo=JavaScript&logoColor=ffffff)
-![Typescript](https://img.shields.io/badge/TypeScript-f7df1e.svg?&style=for-the-badge&logo=TypeScript&logoColor=ffffff)
+![Typescript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=ffffff)
 ![Notion](https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=ffffff)
 
