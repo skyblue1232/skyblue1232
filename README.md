@@ -24,6 +24,7 @@
 ### Language✏️
 ![C](https://img.shields.io/badge/C-a8b9cc.svg?&style=for-the-badge&logo=C&logoColor=ffffff)
 ![C++](https://img.shields.io/badge/C++-00599c.svg?&style=for-the-badge&logo=C++&logoColor=ffffff)
+![Python](https://img.shields.io/badge/Python-3776ab.svg?&style=for-the-badge&logo=Python&logoColor=ffffff)
 
 
 
