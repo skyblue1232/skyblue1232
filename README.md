@@ -7,4 +7,5 @@
 ![ReactQuery](https://img.shields.io/badge/ReactQuery-ff4154.svg?&style=for-the-badge&logo=ReactQuery&logoColor=ffffff)
 ![ReactRouter](https://img.shields.io/badge/ReactRouter-ca4245.svg?&style=for-the-badge&logo=ReactRouter&logoColor=ffffff)
 ![CreateReactApp](https://img.shields.io/badge/CreateReactApp-09d3ac.svg?&style=for-the-badge&logo=CreateReactApp&logoColor=ffffff)
+![Recoil](https://img.shields.io/badge/CreateReactApp-3578e5.svg?&style=for-the-badge&logo=CreateReactApp&logoColor=ffffff)
 
