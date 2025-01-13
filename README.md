@@ -15,4 +15,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e.svg?&style=for-the-badge&logo=JavaScript&logoColor=ffffff)
 ![Typescript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=ffffff)
 ![Notion](https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=ffffff)
+![HTML5](https://img.shields.io/badge/HTML5-e34f26.svg?&style=for-the-badge&logo=HTML5&logoColor=ffffff)
+![CSS](https://img.shields.io/badge/CSS-663399.svg?&style=for-the-badge&logo=CSS&logoColor=ffffff)
+![styledcomponents](https://img.shields.io/badge/styledcomponents-db7093.svg?&style=for-the-badge&logo=styledcomponents&logoColor=ffffff)
 
