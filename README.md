@@ -8,4 +8,6 @@
 ![ReactRouter](https://img.shields.io/badge/ReactRouter-ca4245.svg?&style=for-the-badge&logo=ReactRouter&logoColor=ffffff)
 ![CreateReactApp](https://img.shields.io/badge/CreateReactApp-09d3ac.svg?&style=for-the-badge&logo=CreateReactApp&logoColor=ffffff)
 ![Recoil](https://img.shields.io/badge/Recoil-3578e5.svg?&style=for-the-badge&logo=Recoil&logoColor=ffffff)
+![Scratch](https://img.shields.io/badge/Scratch-4d97ff.svg?&style=for-the-badge&logo=Scratch&logoColor=ffffff)
+![npm](https://img.shields.io/badge/npm-CB3837.svg?&style=for-the-badge&logo=npm&logoColor=ffffff)
 
