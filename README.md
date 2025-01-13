@@ -23,6 +23,9 @@
 ![Redux](https://img.shields.io/badge/Redux-764abc.svg?&style=for-the-badge&logo=Redux&logoColor=ffffff)
 ![XML](https://img.shields.io/badge/XML-005fad.svg?&style=for-the-badge&logo=XML&logoColor=ffffff)
 ![jetpackcompose](https://img.shields.io/badge/jetpackcompose-4285f4.svg?&style=for-the-badge&logo=jetpackcompose&logoColor=ffffff)
+![Axios](https://img.shields.io/badge/Axios-5a29e4.svg?&style=for-the-badge&logo=Axios&logoColor=ffffff)
+![Postman](https://img.shields.io/badge/Postman-ff6c37.svg?&style=for-the-badge&logo=Postman&logoColor=ffffff)
+
 
 ### Language✏️
 ![C](https://img.shields.io/badge/C-a8b9cc.svg?&style=for-the-badge&logo=C&logoColor=ffffff)
