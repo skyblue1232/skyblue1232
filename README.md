@@ -6,5 +6,5 @@
 ![React](https://img.shields.io/badge/React-61dafb.svg?&style=for-the-badge&logo=React&logoColor=ffffff)
 ![ReactQuery](https://img.shields.io/badge/ReactQuery-ff4154.svg?&style=for-the-badge&logo=ReactQuery&logoColor=ffffff)
 ![ReactRouter](https://img.shields.io/badge/ReactRouter-ca4245.svg?&style=for-the-badge&logo=ReactRouter&logoColor=ffffff)
-![ReactHookForm](https://img.shields.io/badge/ReactHookForm-ec5990.svg?&style=for-the-badge&logo=ReactHookForm&logoColor=ffffff)
+![CreateReactApp](https://img.shields.io/badge/CreateReactApp-09d3ac.svg?&style=for-the-badge&logo=CreateReactApp&logoColor=ffffff)
 
