@@ -1,13 +1,13 @@
-# ⛏️자유로운 탐험가 고민균입니다.🍠 <br />
-✍️호기심이라는 무모함에서 시작하여 치열하게 고민하고 결과물을 구현합니다. <br />
-🍎끊임없이 지식을 탐구하고 좋은 코드를 만들기 위해 노력합니다. <br />
-💿늘 새로운 도전을 꿈꾸고 책임감을 가지고 임합니다. <br /> <br />
+# ⛏️자유로운 탐험가 고민균입니다. <br />
+호기심이라는 무모함에서 시작하여 치열하게 고민하고 결과물을 구현합니다. <br />
+끊임없이 지식을 탐구하고 좋은 코드를 만들기 위해 노력합니다. <br />
+늘 새로운 도전을 꿈꾸고 책임감을 가지고 임합니다. <br /> <br />
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skyblue1232&show_icons=true&theme=tokyonight) <br />
 
 ---
-### Skills📜✏️
+### Skills
 
 ![React](https://img.shields.io/badge/React-61dafb.svg?&style=for-the-badge&logo=React&logoColor=ffffff)
 ![Scratch](https://img.shields.io/badge/Scratch-4d97ff.svg?&style=for-the-badge&logo=Scratch&logoColor=ffffff)
