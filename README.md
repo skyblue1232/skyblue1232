@@ -1,5 +1,12 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+<div align="left">
+  <a href="mailto:skybluekmg@gmail.com" target="_blank">
+    <img 
+      src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" 
+      width="24" 
+      height="12" 
+      alt="gmail logo"  
+    />
+  </a>
 </div>
 
 ## I’m an explorer driven by curiosity and a passion for continuous learning.
@@ -8,6 +15,7 @@ I love diving into new ideas and technologies, and I approach every challenge wi
 As a frontend developer, I focus on building thoughtful user experiences from architecture design to detailed implementation, always striving to create clean, reliable, and intuitive interfaces.
 I enjoy turning complex problems into elegant, user-centered solutions that make technology feel natural and engaging.
 Beyond coding, I value collaboration and believe that great products are born from communication, empathy, and a shared vision.
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skyblue1232&show_icons=true&theme=tokyonight) 
