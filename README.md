@@ -1,15 +1,6 @@
 ## I’m an explorer driven by curiosity and a passion for continuous learning.
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/%EB%AF%BC%EA%B7%A0-%EA%B3%A0-ab28ab360/" target="_blank" style="margin-right: 10px;">
-    <img 
-      src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" 
-      width="24" 
-      height="12" 
-      alt="linkedin logo"
-    />
-  </a>
-  
   <a href="mailto:skybluekmg@gmail.com" target="_blank">
     <img 
       src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" 
