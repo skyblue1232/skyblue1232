@@ -1,7 +1,8 @@
-# ⛏️자유로운 탐험가 고민균입니다. <br />
-호기심이라는 무모함에서 시작하여 치열하게 고민하고 결과물을 구현합니다. <br />
-끊임없이 지식을 탐구하고 좋은 코드를 만들기 위해 노력합니다. <br />
-늘 새로운 도전을 꿈꾸고 책임감을 가지고 임합니다. <br /> <br />
+###I’m an explorer driven by curiosity and a passion for continuous learning.
+I love diving into new ideas and technologies, and I approach every challenge with persistence and accountability.
+As a frontend developer, I focus on building thoughtful user experiences from architecture design to detailed implementation, always striving to create clean, reliable, and intuitive interfaces.
+I enjoy turning complex problems into elegant, user-centered solutions that make technology feel natural and engaging.
+Beyond coding, I value collaboration and believe that great products are born from communication, empathy, and a shared vision.
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skyblue1232&show_icons=true&theme=tokyonight) <br />
