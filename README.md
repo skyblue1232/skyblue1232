@@ -1,3 +1,4 @@
+## I’m an explorer driven by curiosity and a passion for continuous learning.
 <div align="left">
   <a href="mailto:skybluekmg@gmail.com" target="_blank">
     <img 
@@ -8,9 +9,6 @@
     />
   </a>
 </div>
-
-## I’m an explorer driven by curiosity and a passion for continuous learning.
-
 I love diving into new ideas and technologies, and I approach every challenge with persistence and accountability.
 As a frontend developer, I focus on building thoughtful user experiences from architecture design to detailed implementation, always striving to create clean, reliable, and intuitive interfaces.
 I enjoy turning complex problems into elegant, user-centered solutions that make technology feel natural and engaging.
