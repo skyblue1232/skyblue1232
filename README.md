@@ -1,3 +1,7 @@
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
 ## I’m an explorer driven by curiosity and a passion for continuous learning.
 
 I love diving into new ideas and technologies, and I approach every challenge with persistence and accountability.
@@ -6,9 +10,12 @@ I enjoy turning complex problems into elegant, user-centered solutions that make
 Beyond coding, I value collaboration and believe that great products are born from communication, empathy, and a shared vision.
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skyblue1232&show_icons=true&theme=tokyonight) <br />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skyblue1232&show_icons=true&theme=tokyonight) 
+<br />
+
 
 ### Skills
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=skyblue1232&locale=en&hide_title=false&layout=compact&langs_count=5&theme=dracula&hide_border=false" alt="languages graph"  />
 
 ![React](https://img.shields.io/badge/React-61dafb.svg?&style=for-the-badge&logo=React&logoColor=ffffff)
 ![Scratch](https://img.shields.io/badge/Scratch-4d97ff.svg?&style=for-the-badge&logo=Scratch&logoColor=ffffff)
@@ -26,7 +33,6 @@ Beyond coding, I value collaboration and believe that great products are born fr
 ![Kotlin](https://img.shields.io/badge/Kotlin-7f52ff.svg?&style=for-the-badge&logo=Kotlin&logoColor=ffffff)
 ![R](https://img.shields.io/badge/R-276dc3.svg?&style=for-the-badge&logo=R&logoColor=ffffff)
 ![MySQL](https://img.shields.io/badge/MySQL-4479a1.svg?&style=for-the-badge&logo=MySQL&logoColor=ffffff)
-
 
 
 
