@@ -20,10 +20,12 @@ Beyond coding, I value collaboration and believe that great products are born fr
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skyblue1232&show_icons=true&theme=transparent) 
+
 <br />
 
 
 ### Skills
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=skyblue1232&locale=en&hide_title=false&layout=compact&langs_count=5&theme=transparent&hide_border=false" alt="languages graph"  />
 
 ![React](https://img.shields.io/badge/React-61dafb.svg?&style=for-the-badge&logo=React&logoColor=ffffff)
