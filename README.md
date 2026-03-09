@@ -7,7 +7,7 @@
   <a href="mailto:skybluekmg@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=EA4335" alt="email" />
   </a>
-  <a href="https://my-blog-one-beta-69.vercel.app/" target="_blank">
+  <a href="https://my-blog-min.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Tech%20Blog-111111?style=flat-square&logo=vercel&logoColor=ffffff" alt="blog" />
   </a>
 </div>
