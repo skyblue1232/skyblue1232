@@ -1,19 +1,17 @@
-## I’m an explorer driven by curiosity and a passion for continuous learning.
+## I take relentless responsibility and never stop digging.
 
 <div align="left">
   <a href="mailto:skybluekmg@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/%20MAIL-skybluekmg%40gmail.com-8B5CF6?style=for-the-badge&labelColor=7C3AED" alt="email badge" />
+    <img src="https://img.shields.io/badge/Gmail-skybluekmg%40gmail.com-3B3B3B?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="gmail badge" />
   </a>
   <a href="https://my-blog-one-beta-69.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/%20TECH%20BLOG-visit%20blog-0EA5E9?style=for-the-badge&labelColor=0284C7" alt="tech blog badge" />
+    <img src="https://img.shields.io/badge/Tech%20Blog-Visit%20Blog-1F2937?style=for-the-badge&logo=vercel&logoColor=ffffff" alt="tech blog badge" />
   </a>
 </div>
 
-
-I love diving into new ideas and technologies, and I approach every challenge with persistence and accountability.
-As a frontend developer, I focus on building thoughtful user experiences from architecture design to detailed implementation, always striving to create clean, reliable, and intuitive interfaces.
-I enjoy turning complex problems into elegant, user-centered solutions that make technology feel natural and engaging.
-Beyond coding, I value collaboration and believe that great products are born from communication, empathy, and a shared vision.
+I’m a frontend developer who focuses on optimizing the flow of user experience.
+Across multiple projects, I’ve worked with teams to structure complex user flows and application states as services scale. I focus on improving performance and stability to create smoother experiences in real-world environments.
+I also explore better technologies and architectures when they can improve a product’s scalability and direction. With curiosity and persistence, I continue to refine systems and build thoughtful interfaces.
 
 <br />
 
