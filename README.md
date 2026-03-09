@@ -2,12 +2,10 @@
 
 <div align="left">
   <a href="mailto:skybluekmg@gmail.com" target="_blank">
-    <img 
-      src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" 
-      width="24" 
-      height="12" 
-      alt="gmail logo"
-    />
+    <img src="https://img.shields.io/badge/%20MAIL-skybluekmg%40gmail.com-8B5CF6?style=for-the-badge&labelColor=7C3AED" alt="email badge" />
+  </a>
+  <a href="https://my-blog-one-beta-69.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/%20TECH%20BLOG-visit%20blog-0EA5E9?style=for-the-badge&labelColor=0284C7" alt="tech blog badge" />
   </a>
 </div>
 
