@@ -1,3 +1,6 @@
+<h1 align="left">MinGyun Ko</h1>
+<p align="left"><i>Frontend Developer</i></p>
+
 ## I take relentless responsibility and never stop digging.
 
 <div align="left">
