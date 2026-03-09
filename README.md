@@ -17,16 +17,10 @@ As a frontend developer, I focus on building thoughtful user experiences from ar
 I enjoy turning complex problems into elegant, user-centered solutions that make technology feel natural and engaging.
 Beyond coding, I value collaboration and believe that great products are born from communication, empathy, and a shared vision.
 
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skyblue1232&show_icons=true&theme=transparent) 
-
 <br />
 
 
 ### Skills
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=skyblue1232&locale=en&hide_title=false&layout=compact&langs_count=5&theme=transparent&hide_border=false" alt="languages graph"  />
 
 ![React](https://img.shields.io/badge/React-61dafb.svg?&style=for-the-badge&logo=React&logoColor=ffffff)
 ![Scratch](https://img.shields.io/badge/Scratch-4d97ff.svg?&style=for-the-badge&logo=Scratch&logoColor=ffffff)
