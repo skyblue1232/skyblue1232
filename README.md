@@ -13,8 +13,6 @@ I’m a frontend developer who focuses on optimizing the flow of user experience
 Across multiple projects, I’ve worked with teams to structure complex user flows and application states as services scale. I focus on improving performance and stability to create smoother experiences in real-world environments.
 I also explore better technologies and architectures when they can improve a product’s scalability and direction. With curiosity and persistence, I continue to refine systems and build thoughtful interfaces.
 
-<br />
-
 
 ### Skills
 
@@ -35,6 +33,11 @@ I also explore better technologies and architectures when they can improve a pro
 ![R](https://img.shields.io/badge/R-276dc3.svg?&style=for-the-badge&logo=R&logoColor=ffffff)
 ![MySQL](https://img.shields.io/badge/MySQL-4479a1.svg?&style=for-the-badge&logo=MySQL&logoColor=ffffff)
 
+### Currently Exploring
 
+- Monorepo architecture for scalable frontend projects  
+- Frontend performance optimization  
+- Structuring maintainable UI architectures  
+- AWS infrastructure (S3, CloudFront, CDN)
 
 
