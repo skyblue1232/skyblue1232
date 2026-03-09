@@ -2,10 +2,10 @@
 
 <div align="left">
   <a href="mailto:skybluekmg@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-skybluekmg%40gmail.com-3B3B3B?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="gmail badge" />
+    <img src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=EA4335" alt="email" />
   </a>
   <a href="https://my-blog-one-beta-69.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Tech%20Blog-Visit%20Blog-1F2937?style=for-the-badge&logo=vercel&logoColor=ffffff" alt="tech blog badge" />
+    <img src="https://img.shields.io/badge/Tech%20Blog-111111?style=flat-square&logo=vercel&logoColor=ffffff" alt="blog" />
   </a>
 </div>
 
