@@ -1,0 +1,111 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0B1020"/>
+      <stop offset="55%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#0A0F1D"/>
+    </linearGradient>
+    <linearGradient id="stroke" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#7C83FD"/>
+      <stop offset="50%" stop-color="#38BDF8"/>
+      <stop offset="100%" stop-color="#A78BFA"/>
+    </linearGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="180%">
+      <feDropShadow dx="0" dy="20" stdDeviation="24" flood-color="#020617" flood-opacity="0.55"/>
+    </filter>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="24"/>
+    </filter>
+    <style>
+      .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace; }
+      .cmd { fill:#93C5FD; font-size:27px; font-weight:700; }
+      .out { fill:#E5E7EB; font-size:25px; }
+      .dim { fill:#94A3B8; font-size:22px; }
+      .accent { fill:#C4B5FD; font-size:25px; font-weight:700; }
+      .green { fill:#86EFAC; }
+      .cursor { fill:#A7F3D0; animation: blink 1s steps(1,end) infinite; }
+      @keyframes blink { 0%,45%{opacity:1} 46%,100%{opacity:0} }
+      .float1 { animation: bob1 6s ease-in-out infinite; transform-origin:center; }
+      .float2 { animation: bob2 7.5s ease-in-out infinite; transform-origin:center; }
+      @keyframes bob1 { 0%,100%{transform:translateY(0)} 50%{transform:translateY(-8px)} }
+      @keyframes bob2 { 0%,100%{transform:translateY(0)} 50%{transform:translateY(7px)} }
+    </style>
+  </defs>
+
+  <!-- soft background glows -->
+  <circle cx="150" cy="110" r="95" fill="#4F46E5" opacity="0.18" filter="url(#glow)" class="float1"/>
+  <circle cx="1050" cy="520" r="115" fill="#0EA5E9" opacity="0.16" filter="url(#glow)" class="float2"/>
+
+  <!-- terminal shell -->
+  <rect x="55" y="45" width="1090" height="530" rx="30" fill="url(#bg)" filter="url(#shadow)"/>
+  <rect x="55.8" y="45.8" width="1088.4" height="528.4" rx="29.2" fill="none" stroke="url(#stroke)" stroke-width="1.6" opacity="0.85"/>
+
+  <!-- top bar -->
+  <rect x="56" y="45" width="1089" height="72" rx="30" fill="#0F172A"/>
+  <rect x="56" y="87" width="1089" height="30" fill="#0F172A"/>
+  <circle cx="98" cy="81" r="9" fill="#FB7185"/>
+  <circle cx="128" cy="81" r="9" fill="#FBBF24"/>
+  <circle cx="158" cy="81" r="9" fill="#4ADE80"/>
+  <text x="600" y="88" text-anchor="middle" class="mono dim">mingyun@frontend: ~</text>
+
+  <!-- prompt 1 -->
+  <g class="mono">
+    <text x="96" y="162" class="cmd">$ whoami</text>
+    <text x="96" y="202" class="out">
+      MinGyun Ko · Frontend Developer
+      <animate attributeName="opacity" values="0;0;1;1;1;0" keyTimes="0;0.08;0.11;0.90;0.97;1" dur="16s" repeatCount="indefinite"/>
+    </text>
+
+    <!-- prompt 2 -->
+    <text x="96" y="258" class="cmd">
+      $ cat focus.txt
+      <animate attributeName="opacity" values="0;0;1;1;1;0" keyTimes="0;0.17;0.20;0.90;0.97;1" dur="16s" repeatCount="indefinite"/>
+    </text>
+
+    <text x="118" y="298" class="out">
+      → User Flow
+      <animate attributeName="opacity" values="0;0;1;1;1;0" keyTimes="0;0.24;0.27;0.90;0.97;1" dur="16s" repeatCount="indefinite"/>
+    </text>
+    <text x="118" y="334" class="out">
+      → Frontend Architecture
+      <animate attributeName="opacity" values="0;0;1;1;1;0" keyTimes="0;0.31;0.34;0.90;0.97;1" dur="16s" repeatCount="indefinite"/>
+    </text>
+    <text x="118" y="370" class="out">
+      → Performance
+      <animate attributeName="opacity" values="0;0;1;1;1;0" keyTimes="0;0.38;0.41;0.90;0.97;1" dur="16s" repeatCount="indefinite"/>
+    </text>
+    <text x="118" y="406" class="out">
+      → AI × Development
+      <animate attributeName="opacity" values="0;0;1;1;1;0" keyTimes="0;0.45;0.48;0.90;0.97;1" dur="16s" repeatCount="indefinite"/>
+    </text>
+
+    <!-- prompt 3 -->
+    <text x="96" y="468" class="cmd">
+      $ echo $MINDSET
+      <animate attributeName="opacity" values="0;0;1;1;1;0" keyTimes="0;0.54;0.57;0.90;0.97;1" dur="16s" repeatCount="indefinite"/>
+    </text>
+    <text x="96" y="510" class="accent">
+      Keep digging. Keep improving.
+      <animate attributeName="opacity" values="0;0;1;1;1;0" keyTimes="0;0.62;0.66;0.90;0.97;1" dur="16s" repeatCount="indefinite"/>
+    </text>
+
+    <!-- blinking cursor -->
+    <rect x="96" y="532" width="13" height="27" rx="2" class="cursor">
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.66;0.67;1" dur="16s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- subtle floating chips -->
+  <g class="float1">
+    <rect x="900" y="148" width="140" height="44" rx="14" fill="#111827" stroke="#818CF8" stroke-opacity="0.65"/>
+    <text x="970" y="177" text-anchor="middle" class="mono dim">React</text>
+  </g>
+  <g class="float2">
+    <rect x="930" y="218" width="160" height="44" rx="14" fill="#111827" stroke="#38BDF8" stroke-opacity="0.65"/>
+    <text x="1010" y="247" text-anchor="middle" class="mono dim">Next.js</text>
+  </g>
+  <g class="float1">
+    <rect x="900" y="288" width="190" height="44" rx="14" fill="#111827" stroke="#A78BFA" stroke-opacity="0.65"/>
+    <text x="995" y="317" text-anchor="middle" class="mono dim">TypeScript</text>
+  </g>
+</svg>
