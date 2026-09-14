@@ -47,8 +47,6 @@
 
 ## 3D Contribution
 
-> 아래 이미지는 GitHub Actions가 매일 내 contribution을 기반으로 직접 생성합니다.
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
