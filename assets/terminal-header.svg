@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="470" viewBox="0 0 1200 470">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0A1020"/>
+      <stop offset="55%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#0B1222"/>
+    </linearGradient>
+    <linearGradient id="stroke" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#818CF8"/>
+      <stop offset="48%" stop-color="#38BDF8"/>
+      <stop offset="100%" stop-color="#C084FC"/>
+    </linearGradient>
+    <radialGradient id="orb1">
+      <stop offset="0%" stop-color="#60A5FA" stop-opacity="0.65"/>
+      <stop offset="100%" stop-color="#60A5FA" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="orb2">
+      <stop offset="0%" stop-color="#A78BFA" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#A78BFA" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="180%">
+      <feDropShadow dx="0" dy="18" stdDeviation="20" flood-color="#020617" flood-opacity="0.55"/>
+    </filter>
+    <style>
+      .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace; }
+      .title { fill:#F8FAFC; font-size:38px; font-weight:800; }
+      .role { fill:#A5B4FC; font-size:23px; font-weight:700; }
+      .cmd { fill:#7DD3FC; font-size:24px; font-weight:700; }
+      .out { fill:#E5E7EB; font-size:22px; }
+      .muted { fill:#94A3B8; font-size:19px; }
+      .mind { fill:#C4B5FD; font-size:22px; font-weight:700; }
+      .float1 { animation: bob1 6s ease-in-out infinite; transform-origin:center; }
+      .float2 { animation: bob2 7.5s ease-in-out infinite; transform-origin:center; }
+      .float3 { animation: bob3 8.5s ease-in-out infinite; transform-origin:center; }
+      .blink { animation: blink 1s steps(1,end) infinite; }
+      @keyframes bob1 { 0%,100%{transform:translateY(0)} 50%{transform:translateY(-8px)} }
+      @keyframes bob2 { 0%,100%{transform:translateY(0)} 50%{transform:translateY(7px)} }
+      @keyframes bob3 { 0%,100%{transform:translateY(-2px)} 50%{transform:translateY(6px)} }
+      @keyframes blink { 0%,48%{opacity:1} 49%,100%{opacity:0} }
+    </style>
+  </defs>
+
+  <!-- ambient glow -->
+  <circle cx="110" cy="88" r="115" fill="url(#orb2)" opacity="0.55"/>
+  <circle cx="1060" cy="405" r="150" fill="url(#orb1)" opacity="0.45"/>
+
+  <!-- terminal -->
+  <rect x="45" y="35" width="1110" height="395" rx="30" fill="url(#bg)" filter="url(#shadow)"/>
+  <rect x="45.8" y="35.8" width="1108.4" height="393.4" rx="29.2" fill="none" stroke="url(#stroke)" stroke-width="1.7"/>
+
+  <!-- top chrome -->
+  <rect x="46" y="35" width="1108" height="66" rx="30" fill="#0F172A"/>
+  <rect x="46" y="74" width="1108" height="27" fill="#0F172A"/>
+  <circle cx="86" cy="69" r="8.5" fill="#FB7185"/>
+  <circle cx="115" cy="69" r="8.5" fill="#FBBF24"/>
+  <circle cx="144" cy="69" r="8.5" fill="#4ADE80"/>
+  <text x="600" y="76" text-anchor="middle" class="mono muted">mingyun@frontend: ~</text>
+
+  <!-- left content -->
+  <g class="mono">
+    <text x="86" y="144" class="cmd">$ whoami</text>
+    <text x="86" y="188" class="title">MinGyun Ko</text>
+    <text x="86" y="220" class="role">Frontend Developer</text>
+
+    <text x="86" y="278" class="cmd">
+      $ cat focus.txt
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.12;0.16;1" dur="8s" repeatCount="indefinite"/>
+    </text>
+
+    <text x="106" y="315" class="out">
+      → User Flow · Frontend Architecture
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.24;0.28;1" dur="8s" repeatCount="indefinite"/>
+    </text>
+    <text x="106" y="350" class="out">
+      → Performance · AI × Development
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.34;0.38;1" dur="8s" repeatCount="indefinite"/>
+    </text>
+
+    <text x="86" y="397" class="mind">
+      Keep digging. Keep improving.
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.46;0.50;1" dur="8s" repeatCount="indefinite"/>
+    </text>
+    <rect x="430" y="377" width="12" height="25" rx="2" fill="#A7F3D0" class="blink"/>
+  </g>
+
+  <!-- right floating tech chips -->
+  <g class="float1">
+    <rect x="790" y="139" width="150" height="46" rx="15" fill="#111827" stroke="#818CF8" stroke-opacity="0.78"/>
+    <text x="865" y="169" text-anchor="middle" class="mono muted">React</text>
+  </g>
+
+  <g class="float2">
+    <rect x="923" y="205" width="168" height="46" rx="15" fill="#111827" stroke="#38BDF8" stroke-opacity="0.78"/>
+    <text x="1007" y="235" text-anchor="middle" class="mono muted">Next.js</text>
+  </g>
+
+  <g class="float3">
+    <rect x="782" y="273" width="202" height="46" rx="15" fill="#111827" stroke="#C084FC" stroke-opacity="0.78"/>
+    <text x="883" y="303" text-anchor="middle" class="mono muted">TypeScript</text>
+  </g>
+
+  <g class="float1">
+    <rect x="934" y="336" width="136" height="42" rx="14" fill="#111827" stroke="#34D399" stroke-opacity="0.72"/>
+    <text x="1002" y="364" text-anchor="middle" class="mono muted">AWS</text>
+  </g>
+</svg>
