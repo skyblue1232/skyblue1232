@@ -1,8 +1,8 @@
 <div align="center">
   <img
-    src="https://raw.githubusercontent.com/skyblue1232/skyblue1232/main/assets/hero.svg?v=3"
+    src="https://raw.githubusercontent.com/skyblue1232/skyblue1232/main/assets/terminal-header.svg?v=1"
     width="100%"
-    alt="MinGyun Ko animated profile banner"
+    alt="MinGyun Ko animated terminal header"
   />
 </div>
 
@@ -26,8 +26,6 @@
 
 <br/>
 
----
-
 ## 🧸 About Me
 
 > ### **집요한 책임감으로 문제를 구조적인 개선으로 연결합니다.**
@@ -45,25 +43,18 @@
 
 <br/>
 
----
-
 ## 🛠 Tech Stack
 
 ### ✨ Frontend
-
 `React` · `Next.js` · `TypeScript` · `JavaScript` · `TanStack Query` · `Zustand`
 
 ### 🧱 Architecture & Collaboration
-
 `Tailwind CSS` · `Storybook` · `Turborepo` · `GitHub Actions`
 
 ### ☁️ Infrastructure
-
 `AWS S3` · `CloudFront` · `ACM`
 
 <br/>
-
----
 
 ## 🌱 Currently Exploring
 
@@ -76,22 +67,6 @@
 
 <br/>
 
----
-
-## 🖥 Developer Terminal
-
-<div align="center">
-  <img
-    src="https://raw.githubusercontent.com/skyblue1232/skyblue1232/main/assets/terminal.svg?v=1"
-    width="96%"
-    alt="Animated developer terminal"
-  />
-</div>
-
-<br/>
-
----
-
 ## 🧊 3D Contribution · 2024 → Now
 
 <div align="center">
@@ -103,8 +78,6 @@
 </div>
 
 <br/>
-
----
 
 <div align="center">
 
