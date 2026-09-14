@@ -26,8 +26,6 @@
 
 <br/>
 
----
-
 ## 🧸 About Me
 
 > ### **집요한 책임감으로 문제를 구조적인 개선으로 연결합니다.**
@@ -39,29 +37,27 @@
 
 ### 🧩 제가 중요하게 생각하는 것
 
-- **Reusable Structure**  
+**Reusable Structure**  
   반복되는 UI와 설정을 공통 패키지와 Storybook으로 정리하며  
   팀이 같은 기준으로 개발할 수 있는 환경을 만들어 왔습니다.
 
-- **Performance**  
+**Performance**  
   대용량 이미지와 영상이 포함된 서비스에서  
   S3 · CloudFront 기반 전달 구조와 로딩 전략을 개선했습니다.
 
-- **State & Data Flow**  
+**State & Data Flow**  
   TanStack Query · Zustand를 활용해  
   화면 상태와 서버 데이터 흐름을 구조화했습니다.
 
-- **Team Contribution**  
+**Team Contribution**  
   기능 구현에만 머무르지 않고 요구사항, 역할, 우선순위와 작업 기준을 정리해  
   **팀이 더 쉽게 움직일 수 있는 상태를 만드는 일**에도 참여합니다.
 
-- **AI × Development**  
+**AI × Development**  
   AI 에이전트를 개발 과정에 활용하며  
   `요구사항 → 계획 → 구현 → 검증` 흐름을 체계화하고 있습니다.
 
 <br/>
-
----
 
 ## 🛠️ Tech Stack
 
@@ -99,8 +95,6 @@
 
 <br/>
 
----
-
 ## 🌱 Currently Exploring
 
 | | Area | Exploring |
@@ -111,8 +105,6 @@
 | 🤖 | **AI × Development** | Agent Workflow · Planning · Verification |
 
 <br/>
-
----
 
 ## 💭 What I Care About
 
@@ -126,8 +118,6 @@
 
 <br/>
 
----
-
 ## 🧊 3D Contribution
 
 <div align="center">
@@ -140,7 +130,6 @@
 
 <br/>
 
----
 
 ## 🐍 Contribution Snake
 
@@ -154,7 +143,6 @@
 
 <br/>
 
----
 
 <div align="center">
 
