@@ -1,6 +1,6 @@
 <div align="center">
   <img
-    src="https://raw.githubusercontent.com/skyblue1232/skyblue1232/main/assets/terminal-header.svg?v=1"
+    src="https://raw.githubusercontent.com/skyblue1232/skyblue1232/main/assets/terminal-header-final.svg?v=1"
     width="100%"
     alt="MinGyun Ko animated terminal header"
   />
