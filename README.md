@@ -118,15 +118,17 @@
 
 <br/>
 
-## 🧊 3D Contribution
+## 🧊 3D Contribution · 2024 → Now
 
 <div align="center">
   <img
-    src="https://raw.githubusercontent.com/skyblue1232/skyblue1232/main/profile-3d-contrib/profile-night-rainbow.svg?v=3"
-    width="92%"
-    alt="3D contribution graph"
+    src="https://raw.githubusercontent.com/skyblue1232/skyblue1232/main/profile-3d-contrib/profile-2024-now.svg?v=1"
+    width="100%"
+    alt="GitHub contribution timeline from 2024 to now"
   />
 </div>
+
+> `?v=1`은 GitHub 이미지 캐시 갱신용입니다. 이미지가 갱신되지 않으면 `v=2`, `v=3`처럼 숫자만 바꿔도 됩니다.
 
 <br/>
 
