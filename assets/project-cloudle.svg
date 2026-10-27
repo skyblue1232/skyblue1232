@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="254" viewBox="0 0 360 254" role="img" aria-label="CLOUDLE: 수리 · 재사용 · 분리배출 가이드">
+<!-- Adapted from strongsun806/celestial-github-profile, MIT; see LICENSE-celestial.txt. -->
+<defs><filter id="shadow" x="-15%" y="-15%" width="130%" height="145%"><feDropShadow dx="0" dy="8" stdDeviation="5" flood-color="#020617" flood-opacity=".5"/></filter></defs>
+<style>text{font-family:'Noto Sans CJK KR','Malgun Gothic',sans-serif}.card{animation:float 4s ease-in-out infinite}.cube{animation:bob 3s ease-in-out infinite}@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-4px)}}@keyframes bob{0%,100%{transform:translateY(0)}50%{transform:translateY(-5px)}}@media(prefers-reduced-motion:reduce){.card,.cube{animation:none}}</style>
+<g transform="translate(16 16)"><g class="card" filter="url(#shadow)">
+<rect y="10" width="328" height="210" rx="22" fill="#0369a1"/>
+<rect width="328" height="210" rx="22" fill="#0f172a" stroke="#38bdf8" stroke-width="1.5"/>
+<text x="22" y="31" fill="#a5f3fc" font-size="10" letter-spacing="1.8" font-weight="700">EARTH &amp; AI</text>
+<g transform="translate(281 49)"><g class="cube"><polygon points="0,-21 20,-10 0,1 -20,-10" fill="#a5f3fc"/><polygon points="-20,-10 0,1 0,24 -20,13" fill="#38bdf8"/><polygon points="0,1 20,-10 20,13 0,24" fill="#0369a1"/></g></g>
+<text x="22" y="71" fill="#f8fafc" font-size="27" font-weight="800">CLOUDLE</text>
+<text x="22" y="111" fill="#f1f5f9" font-size="18" font-weight="700">버리기 전에,</text>
+<text x="22" y="138" fill="#f1f5f9" font-size="18" font-weight="700">한 번 더 살릴 수 있을까?</text>
+<text x="22" y="170" fill="#aab8cc" font-size="12">수리 · 재사용 · 분리배출 가이드</text>
+<text x="22" y="194" fill="#38bdf8" font-size="11" font-weight="700">EXPLORE PROJECT ↗</text>
+</g></g></svg>
