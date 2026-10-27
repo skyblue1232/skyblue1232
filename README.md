@@ -63,38 +63,50 @@
 
 <br/>
 
-## 🛠 Tech Stack
+## 🧊 3D Core Projects
 
-### ✨ Frontend
+세 가지 질문에서 시작한, 세 가지 서비스.
 
-<p>
-  <img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js" />
-  <img src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <a href="https://cloudle.vercel.app/">
+        <img src="./assets/project-cloudle.svg" width="100%" alt="CLOUDLE — 버리기 전에, 한 번 더 살릴 수 있을까? 수리·재사용·분리배출 가이드" />
+      </a>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://github.com/CUK-Compasser/FE">
+        <img src="./assets/project-compasser.svg" width="100%" alt="Compasser — 오늘의 마감이, 내일의 득템이 된다면? 대학교 주변 마감 할인 플랫폼" />
+      </a>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://github.com/skyblue1232/soulrip-frontend">
+        <img src="./assets/project-soulrip.svg" width="100%" alt="Soulrip — 혼자 떠나는 서울, 어디부터 가볼까? 장소 탐색·AI 챗봇·경험 공유" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+## 🎹 3D Skill Keycaps
+
+<div align="center">
+  <img src="./assets/3d-keycaps.svg" width="760" alt="애니메이션 3D 키캡: React, Next.js, TypeScript, JavaScript, Java" />
+</div>
+
+<p align="center">
+  <sub>React · Next.js · TypeScript · JavaScript · Java (Learning)</sub>
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/TanStack_Query-111827?style=for-the-badge&logo=reactquery&logoColor=FF4154" alt="TanStack Query" />
-  <img src="https://img.shields.io/badge/Zustand-111827?style=for-the-badge" alt="Zustand" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-111827?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
-</p>
+<details>
+<summary><b>🧰 함께 사용하는 도구</b></summary>
 
-### 🧱 Architecture & Collaboration
+- **State & Styling** · TanStack Query · Zustand · Tailwind CSS
+- **Architecture & Collaboration** · Storybook · Turborepo · GitHub Actions
+- **Delivery** · AWS S3 · CloudFront · ACM
 
-<p>
-  <img src="https://img.shields.io/badge/Storybook-111827?style=for-the-badge&logo=storybook&logoColor=FF4785" alt="Storybook" />
-  <img src="https://img.shields.io/badge/Turborepo-111827?style=for-the-badge&logo=turborepo&logoColor=EF4444" alt="Turborepo" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-111827?style=for-the-badge&logo=githubactions&logoColor=2088FF" alt="GitHub Actions" />
-</p>
-
-### ☁️ Infrastructure
-
-<p>
-  <img src="https://img.shields.io/badge/AWS_S3-111827?style=for-the-badge" alt="AWS S3" />
-  <img src="https://img.shields.io/badge/CloudFront-111827?style=for-the-badge" alt="Amazon CloudFront" />
-  <img src="https://img.shields.io/badge/ACM-111827?style=for-the-badge" alt="AWS Certificate Manager" />
-</p>
+</details>
 
 <br/>
 
@@ -157,7 +169,7 @@
 <br/>
 
 <sub>
-Visual asset from
+3D SVG assets adapted from
 <a href="https://github.com/strongsun806/celestial-github-profile">Celestial GitHub Profile</a>
 </sub>
 
